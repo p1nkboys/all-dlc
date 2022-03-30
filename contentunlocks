@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_FLAREGUN</Item>
+	<Item>CU_CASCO_VEH</Item>
+	<Item>CU_ENDURO_VEH</Item>
+	<Item>CU_GBURRITO2_VEH</Item>
+	<Item>CU_GUARDIAN_VEH</Item>
+	<Item>CU_HYDRA_VEH</Item>
+	<Item>CU_INSURGENT_VEH</Item>
+	<Item>CU_INSURGENT2_VEH</Item>
+	<Item>CU_KURUMA_VEH</Item>
+	<Item>CU_KURUMA2_VEH</Item>
+	<Item>CU_LECTRO_VEH</Item>
+    <Item>CU_SAVAGE_VEH</Item>
+    <Item>CU_SLAMVAN2_VEH</Item>
+    <Item>CU_TECHNICAL_VEH</Item>
+    <Item>CU_VALKYRIE_VEH</Item>
+    <Item>CU_VELUM2_VEH</Item>
+	<Item>CU_HEIST_TATTOOS</Item>
+	<Item>CU_HEIST_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_BLIMP2_VEH</Item>
+	<Item>CU_BLISTA2_VEH</Item>
+	<Item>CU_BLISTA3_VEH</Item>
+	<Item>CU_BUFFALO3_VEH</Item>
+	<Item>CU_DODO_VEH</Item>
+	<Item>CU_DOMINATOR2_VEH</Item>
+	<Item>CU_DUKES_VEH</Item>
+	<Item>CU_DUKES2_VEH</Item>
+	<Item>CU_GAUNTLET2_VEH</Item>
+	<Item>CU_MARSHALL_VEH</Item>
+	<Item>CU_STALION_VEH</Item>
+	<Item>CU_STALION2_VEH</Item>
+	<Item>CU_SUBMERSIBLE2_VEH</Item>
+    <Item>CU_WEP_HATCHET</Item>
+	<Item>CU_WEP_RAILGUN</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_AIRRACE_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_BALLER3</Item>
+	<Item>CU_VEH_BALLER4</Item>
+	<Item>CU_VEH_BALLER5</Item>
+	<Item>CU_VEH_BALLER6</Item>
+	<Item>CU_VEH_CARGOBOB4</Item>
+	<Item>CU_VEH_COG55</Item>
+	<Item>CU_VEH_COG552</Item>
+	<Item>CU_VEH_COGNOSCENTI</Item>
+	<Item>CU_VEH_COGNOSCENTI2</Item>
+	<Item>CU_VEH_DINGHY4</Item>
+	<Item>CU_VEH_LIMO2</Item>
+	<Item>CU_VEH_MAMBA</Item>
+	<Item>CU_VEH_NIGHTSHADE</Item>
+	<Item>CU_VEH_SCHAFTER3</Item>
+	<Item>CU_VEH_SCHAFTER4</Item>
+	<Item>CU_VEH_SCHAFTER5</Item>
+	<Item>CU_VEH_SCHAFTER6</Item>
+	<Item>CU_VEH_SEASHARK3</Item>
+	<Item>CU_VEH_SPEEDER2</Item>
+	<Item>CU_VEH_SUPERVOLITO</Item>
+	<Item>CU_VEH_SUPERVOLITO2</Item>
+	<Item>CU_VEH_TORO2</Item>
+	<Item>CU_VEH_TROPIC2</Item>
+	<Item>CU_VEH_VALKYRIE2</Item>
+	<Item>CU_VEH_VERLIERER2</Item>
+    <Item>CU_WEP_REVOLVER</Item>
+    <Item>CU_WEP_SWITCHBLADE</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_VEH_CARACARA</Item>
+    <Item>CU_VEH_CHEBUREK</Item>
+    <Item>CU_VEH_DOMINATOR3</Item>
+    <Item>CU_VEH_ELLIE</Item>
+    <Item>CU_VEH_ENTITY2</Item>
+    <Item>CU_VEH_FAGALOA</Item>
+    <Item>CU_VEH_FLASHGT</Item>
+  	<Item>CU_VEH_GB200</Item>
+  	<Item>CU_VEH_HOTRING</Item>
+  	<Item>CU_VEH_ISSI3</Item>
+  	<Item>CU_VEH_JESTER3</Item>
+  	<Item>CU_VEH_MICHELLI</Item>
+  	<Item>CU_VEH_SEASPARROW</Item>
+    <Item>CU_VEH_TAIPAN</Item>
+  	<Item>CU_VEH_TEZERACT</Item>
+  	<Item>CU_VEH_TYRANT</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_VEH_BLIMP3</Item>
+    <Item>CU_VEH_FREECRAWLER</Item>
+    <Item>CU_VEH_MENACER</Item>
+    <Item>CU_VEH_MULE4</Item>
+    <Item>CU_VEH_OPPRESSOR2</Item>
+    <Item>CU_VEH_PATRIOT2</Item>
+    <Item>CU_VEH_PBUS2</Item>
+    <Item>CU_VEH_POUNDER2</Item>
+	<Item>CU_VEH_SCRAMJET</Item>
+	<Item>CU_VEH_SPEEDO4</Item>
+	<Item>CU_VEH_STAFFORD</Item>
+    <Item>CU_VEH_STRIKEFORCE</Item>
+	<Item>CU_VEH_SWINGER</Item>
+	<Item>CU_VEH_TERBYTE</Item>
+	<Item>CU_WEP_STONE_HATCHET</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_AVARUS</Item>
+	<Item>CU_VEH_BLAZER4</Item>
+	<Item>CU_VEH_CHIMERA</Item>
+	<Item>CU_VEH_DAEMON2</Item>
+	<Item>CU_VEH_DEFILER</Item>
+	<Item>CU_VEH_ESSKEY</Item>
+	<Item>CU_VEH_FAGGIO</Item>
+	<Item>CU_VEH_FAGGIO3</Item>
+	<Item>CU_VEH_HAKUCHOU2</Item>
+	<Item>CU_VEH_MANCHEZ</Item>
+	<Item>CU_VEH_NIGHTBLADE</Item>
+	<Item>CU_VEH_RAPTOR</Item>
+	<Item>CU_VEH_RATBIKE</Item>
+	<Item>CU_VEH_SANCTUS</Item>
+	<Item>CU_VEH_SHOTARO</Item>
+	<Item>CU_VEH_TORNADO6</Item>
+	<Item>CU_VEH_VORTEX</Item>
+	<Item>CU_VEH_WOLFSBANE</Item>
+	<Item>CU_VEH_YOUGA2</Item>
+	<Item>CU_VEH_ZOMBIEA</Item>
+	<Item>CU_VEH_ZOMBIEB</Item>
+	<Item>CU_WEP_AUTOSHOTGUN</Item>
+	<Item>CU_WEP_BATTLEAXE</Item>
+	<Item>CU_WEP_COMPACTLAUNCHER</Item>
+	<Item>CU_WEP_MINISMG</Item>
+	<Item>CU_WEP_PIPEBOMB</Item>
+	<Item>CU_WEP_POOLCUE</Item>
+	<Item>CU_WEP_WRENCH</Item>
+	<Item>CU_BIKER_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_JESTER2_VEH</Item>
+	<Item>CU_MASSACRO2_VEH</Item>
+	<Item>CU_RATLOADER2_VEH</Item>
+	<Item>CU_SLAMVAN_VEH</Item>
+    <Item>CU_WEP_PROXMINE</Item>
+    <Item>CU_WEP_HOMINGLAUNCHER</Item>
+	<Item>CU_XMAS2_TATTOOS</Item>
+	<Item>CU_XMAS2_CLOTHES</Item>
+	<Item>CU_XMAS2_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+  	<Item>CU_VEH_AKULA</Item>
+  	<Item>CU_VEH_AUTARCH</Item>
+  	<Item>CU_VEH_AVENGER</Item>
+  	<Item>CU_VEH_BARRAGE</Item>
+  	<Item>CU_VEH_CHERNOBOG</Item>
+  	<Item>CU_VEH_COMET4</Item>
+	<Item>CU_VEH_COMET5</Item>
+  	<Item>CU_VEH_DELUXO</Item>
+  	<Item>CU_VEH_GT500</Item>
+  	<Item>CU_VEH_HERMES</Item>
+  	<Item>CU_VEH_HUSTLER</Item>
+  	<Item>CU_VEH_KAMACHO</Item>
+  	<Item>CU_VEH_KHANJALI</Item>
+  	<Item>CU_VEH_NEON</Item>
+  	<Item>CU_VEH_PARIAH</Item>
+  	<Item>CU_VEH_RAIDEN</Item>
+  	<Item>CU_VEH_REVOLTER</Item>
+  	<Item>CU_VEH_RIATA</Item>
+  	<Item>CU_VEH_RIOT2</Item>
+  	<Item>CU_VEH_SAVESTRA</Item>
+  	<Item>CU_VEH_SC1</Item>
+  	<Item>CU_VEH_SENTINEL3</Item>
+  	<Item>CU_VEH_STREITER</Item>
+  	<Item>CU_VEH_STROMBERG</Item>
+  	<Item>CU_VEH_THRUSTER</Item>
+	<Item>CU_VEH_VISERIS</Item>
+  	<Item>CU_VEH_VOLATOL</Item>
+  	<Item>CU_VEH_YOSEMITE</Item>
+  	<Item>CU_VEH_Z190</Item>
+	<Item>CU_WEP_BULLPUPRIFLE_MK2</Item>
+	<Item>CU_WEP_DOUBLEACTION</Item>
+	<Item>CU_WEP_MARKSMANRIFLE_MK2</Item>
+	<Item>CU_WEP_PUMPSHOTGUN_MK2</Item>
+	<Item>CU_WEP_REVOLVER_MK2</Item>
+	<Item>CU_WEP_SNSPISTOL_MK2</Item>
+	<Item>CU_WEP_SPECIALCARBINE_MK2</Item>
+	<Item>CU_GANGOPS_CLOTHES</Item>
+	<Item>CU_XMAS5_CLOTHES</Item>
+	<Item>CU_XMAS5_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_VEH_BRUISER</Item>
+    <Item>CU_VEH_BRUISER2</Item>
+    <Item>CU_VEH_BRUISER3</Item>
+    <Item>CU_VEH_BRUTUS</Item>
+    <Item>CU_VEH_BRUTUS3</Item>
+    <Item>CU_VEH_CERBERUS</Item>
+    <Item>CU_VEH_CERBERUS2</Item>
+    <Item>CU_VEH_CERBERUS3</Item>
+    <Item>CU_VEH_CLIQUE</Item>
+    <Item>CU_VEH_DEATHBIKE</Item>
+    <Item>CU_VEH_DEATHBIKE2</Item>
+    <Item>CU_VEH_DEATHBIKE3</Item>
+    <Item>CU_VEH_DEVESTE</Item>
+    <Item>CU_VEH_DEVIANT</Item>
+    <Item>CU_VEH_DOMINATOR4</Item>
+    <Item>CU_VEH_DOMINATOR5</Item>
+    <Item>CU_VEH_DOMINATOR6</Item>
+    <Item>CU_VEH_IMPALER</Item>
+    <Item>CU_VEH_IMPALER2</Item>
+    <Item>CU_VEH_IMPALER3</Item>
+    <Item>CU_VEH_IMPALER4</Item>
+    <Item>CU_VEH_IMPERATOR</Item>
+    <Item>CU_VEH_IMPERATOR2</Item>
+    <Item>CU_VEH_IMPERATOR3</Item>
+    <Item>CU_VEH_ISSI4</Item>
+    <Item>CU_VEH_ISSI6</Item>
+    <Item>CU_VEH_ITALIGTO</Item>
+    <Item>CU_VEH_MONSTER3</Item>
+    <Item>CU_VEH_MONSTER4</Item>
+    <Item>CU_VEH_MONSTER5</Item>
+    <Item>CU_VEH_RCBANDITO</Item>
+    <Item>CU_VEH_SCARAB</Item>
+    <Item>CU_VEH_SCARAB2</Item>
+    <Item>CU_VEH_SCARAB3</Item>
+    <Item>CU_VEH_SCHLAGEN</Item>
+    <Item>CU_VEH_SLAMVAN4</Item>
+    <Item>CU_VEH_SLAMVAN6</Item>
+    <Item>CU_VEH_TOROS</Item>
+    <Item>CU_VEH_TULIP</Item>
+    <Item>CU_VEH_VAMOS</Item>
+    <Item>CU_VEH_ZR380</Item>
+    <Item>CU_VEH_ZR3802</Item>
+    <Item>CU_VEH_ZR3803</Item>
+    <Item>CU_WEP_RAYPISTOL</Item>
+	<Item>CU_WEP_RAYCARBINE</Item>
+	<Item>CU_WEP_RAYMINIGUN</Item>
+	<Item>CU_XMAS6_CLOTHES</Item>
+	<Item>CU_ARENA_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_EXE_CLOTHES</Item>
+	<Item>CU_EXE_TATTOOS</Item>
+ 	<Item>CU_VEH_770</Item>
+ 	<Item>CU_VEH_811</Item>
+ 	<Item>CU_VEH_BESTIAGTS</Item>
+ 	<Item>CU_VEH_BRICKADE</Item>
+ 	<Item>CU_VEH_FMJ</Item>
+ 	<Item>CU_VEH_NIMBUS</Item>
+	<Item>CU_VEH_PROTOTIPO</Item>
+ 	<Item>CU_VEH_REAPER</Item>	
+ 	<Item>CU_VEH_RUMPO3</Item>	
+ 	<Item>CU_VEH_TUG</Item>	
+ 	<Item>CU_VEH_VOLATUS</Item>	
+ 	<Item>CU_VEH_WINDSOR2</Item>	
+ 	<Item>CU_VEH_XLS</Item>	
+ 	<Item>CU_VEH_XLS2</Item>	
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_APC</Item>
+	<Item>CU_VEH_ARDENT</Item>
+	<Item>CU_VEH_CADDY3</Item>
+	<Item>CU_VEH_CHEETAH2</Item>
+	<Item>CU_VEH_DUNE3</Item>
+	<Item>CU_VEH_HALFTRACK</Item>
+	<Item>CU_VEH_HAULER2</Item>
+	<Item>CU_VEH_INSURGENT3</Item>
+	<Item>CU_VEH_MOBILECOMMAND</Item>
+	<Item>CU_VEH_NIGHTSHARK</Item>
+	<Item>CU_VEH_OPPRESSOR</Item>
+	<Item>CU_VEH_PHANTOM3</Item>
+	<Item>CU_VEH_TAMPA3</Item>
+	<Item>CU_VEH_TECHNICAL3</Item>
+	<Item>CU_VEH_TORERO</Item>
+	<Item>CU_VEH_TRSMALL2</Item>
+	<Item>CU_VEH_VAGNER</Item>
+	<Item>CU_VEH_XA21</Item>
+	<Item>CU_WEP_ASSAULTRIFLE_MK2</Item>
+	<Item>CU_WEP_CARBINERIFLE_MK2</Item>
+	<Item>CU_WEP_COMBATMG_MK2</Item>
+	<Item>CU_WEP_HEAVYSNIPER_MK2</Item>
+	<Item>CU_WEP_PISTOL_MK2</Item>
+	<Item>CU_WEP_SMG_MK2</Item>
+	<Item>CU_GUNRUN_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_FRANKEN</Item>
+	<Item>CU_VEH_LURCHER</Item>
+	<Item>CU_WEP_FLASHLIGHT</Item>
+	<Item>CU_HAL_CLOTHES</Item>
+	<Item>CU_HAL_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_FLAREGUN</Item>
+	<Item>CU_CASCO_VEH</Item>
+	<Item>CU_ENDURO_VEH</Item>
+	<Item>CU_GBURRITO2_VEH</Item>
+	<Item>CU_GUARDIAN_VEH</Item>
+	<Item>CU_HYDRA_VEH</Item>
+	<Item>CU_INSURGENT_VEH</Item>
+	<Item>CU_INSURGENT2_VEH</Item>
+	<Item>CU_KURUMA_VEH</Item>
+	<Item>CU_KURUMA2_VEH</Item>
+	<Item>CU_LECTRO_VEH</Item>
+    <Item>CU_SAVAGE_VEH</Item>
+    <Item>CU_SLAMVAN2_VEH</Item>
+    <Item>CU_TECHNICAL_VEH</Item>
+    <Item>CU_VALKYRIE_VEH</Item>
+    <Item>CU_VELUM2_VEH</Item>
+	<Item>CU_HEIST_TATTOOS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_VEH_ASBO</Item>
+    <Item>CU_VEH_EVERON</Item>
+    <Item>CU_VEH_FORMULA</Item>
+    <Item>CU_VEH_FORMULA2</Item>
+    <Item>CU_VEH_FURIA</Item>
+    <Item>CU_VEH_IMORGON</Item>
+    <Item>CU_VEH_JB7002</Item>
+    <Item>CU_VEH_KANJO</Item>
+    <Item>CU_VEH_KOMODA</Item>
+    <Item>CU_VEH_MINITANK</Item>
+    <Item>CU_VEH_OUTLAW</Item>
+    <Item>CU_VEH_REBLA</Item>
+    <Item>CU_VEH_RETINUE2</Item>
+    <Item>CU_VEH_STRYDER</Item>
+    <Item>CU_VEH_SUGOI</Item>
+    <Item>CU_VEH_SULTAN2</Item>
+    <Item>CU_VEH_VAGRANT</Item>
+    <Item>CU_VEH_VSTR</Item>
+    <Item>CU_VEH_YOSEMITE2</Item>
+    <Item>CU_VEH_ZHABA</Item>
+    <Item>CU_WEP_CERAMICPISTOL</Item>
+    <Item>CU_WEP_HAZARDCAN</Item>
+    <Item>CU_WEP_NAVYREVOLVER</Item>
+    <Item>CU_HEIST3_CLOTHES</Item>
+    <Item>CU_HEIST3_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+  	<Item>CU_VEH_ALKONOST</Item>
+  	<Item>CU_VEH_ANNIHILATOR2</Item>
+  	<Item>CU_VEH_AVISA</Item>
+  	<Item>CU_VEH_BRIOSO2</Item>
+  	<Item>CU_VEH_DINGHY5</Item>
+  	<Item>CU_VEH_ITALIRSX</Item>
+  	<Item>CU_VEH_KOSATKA</Item>
+  	<Item>CU_VEH_LONGFIN</Item>
+	<Item>CU_VEH_MANCHEZ2</Item>
+	<Item>CU_VEH_PATROLBOAT</Item>
+	<Item>CU_VEH_SEASPARROW2</Item>
+	<Item>CU_VEH_SLAMTRUCK</Item>
+	<Item>CU_VEH_SQUADDIE</Item>
+	<Item>CU_VEH_TOREADOR</Item>
+	<Item>CU_VEH_VERUS</Item>
+	<Item>CU_VEH_VETIR</Item>
+	<Item>CU_VEH_VETO</Item>
+	<Item>CU_VEH_VETO2</Item>
+	<Item>CU_VEH_WEEVIL</Item>
+	<Item>CU_VEH_WINKY</Item>
+	<Item>CU_WEP_COMBATSHOTGUN</Item>
+	<Item>CU_WEP_GADGETPISTOL</Item>
+	<Item>CU_WEP_MILITARYRIFLE</Item>
+	<Item>CU_HEIST4_CLOTHES</Item>
+	<Item>CU_HEIST4_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_BLAZER5</Item>
+	<Item>CU_VEH_BOXVILLE5</Item>
+	<Item>CU_VEH_COMET3</Item>
+	<Item>CU_VEH_DIABLOUS</Item>
+	<Item>CU_VEH_DIABLOUS2</Item>
+	<Item>CU_VEH_DUNE4</Item>
+	<Item>CU_VEH_DUNE5</Item>
+	<Item>CU_VEH_ELEGY</Item>
+	<Item>CU_VEH_FCR</Item>
+	<Item>CU_VEH_FCR2</Item>
+	<Item>CU_VEH_ITALIGTB</Item>
+	<Item>CU_VEH_ITALIGTB2</Item>
+	<Item>CU_VEH_NERO</Item>
+	<Item>CU_VEH_NERO2</Item>
+	<Item>CU_VEH_PENETRATOR</Item>
+	<Item>CU_VEH_PHANTOM2</Item>
+	<Item>CU_VEH_RUINER2</Item>
+	<Item>CU_VEH_RUINER3</Item>
+	<Item>CU_VEH_SPECTER</Item>
+	<Item>CU_VEH_SPECTER2</Item>
+	<Item>CU_VEH_TECHNICAL2</Item>
+	<Item>CU_VEH_TEMPESTA</Item>
+	<Item>CU_VEH_VOLTIC2</Item>
+	<Item>CU_VEH_WASTELANDER</Item>
+	<Item>CU_IMPEXP_CLOTHES</Item>
+	<Item>CU_XMAS4_CLOTHES</Item>
+	<Item>CU_XMAS4_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+ 	<Item>CU_VEH_BANSHEE2</Item>
+ 	<Item>CU_VEH_SULTANRS</Item>
+	<Item>CU_JAN_CLOTHES</Item>
+	<Item>CU_JAN_TATTOOS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_BUCCANEER2</Item>
+	<Item>CU_VEH_CHINO2</Item>
+	<Item>CU_VEH_FACTION</Item>
+	<Item>CU_VEH_FACTION2</Item>
+	<Item>CU_VEH_MOONBEAM</Item>
+	<Item>CU_VEH_MOONBEAM2</Item>
+	<Item>CU_VEH_PRIMO2</Item>
+	<Item>CU_VEH_VOODOO</Item>
+	<Item>CU_WEP_MACHETE</Item>
+	<Item>CU_WEP_MACHINEPISTOL</Item>
+	<Item>CU_LOW_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+ 	<Item>CU_VEH_FACTION3</Item>
+	<Item>CU_VEH_MINIVAN2</Item>
+	<Item>CU_VEH_SABREGT2</Item>
+	<Item>CU_VEH_SLAMVAN3</Item>
+	<Item>CU_VEH_TORNADO5</Item>
+	<Item>CU_VEH_VIRGO2</Item>
+	<Item>CU_VEH_VIRGO3</Item>
+	<Item>CU_WEP_COMPACTRIFLE</Item>
+	<Item>CU_WEP_DBSHOTGUN</Item>
+	<Item>CU_LOW2_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_FELTZER3</Item>
+	<Item>CU_VEH_LUXOR2</Item>
+	<Item>CU_VEH_OSIRIS</Item>
+	<Item>CU_VEH_SWIFT2</Item>
+	<Item>CU_VEH_VIRGO</Item>
+	<Item>CU_VEH_WINDSOR</Item>
+	<Item>CU_WEP_COMBATPDW</Item>
+	<Item>CU_LUXE_TATTOOS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_BRAWLER</Item>
+	<Item>CU_VEH_CHINO</Item>
+	<Item>CU_VEH_COQUETTE3</Item>
+	<Item>CU_VEH_T20</Item>
+	<Item>CU_VEH_TORO</Item>
+	<Item>CU_VEH_VINDICATOR</Item>
+	<Item>CU_WEP_KNUCKLE</Item>
+	<Item>CU_WEP_MKPISTOL</Item>
+	<Item>CU_LUXE2_TATTOOS</Item>
+	<Item>CU_LUXE2_HORNS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_REPLAY_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+  	<Item>CU_VEH_ASTRON</Item>
+	<Item>CU_VEH_BALLER</Item>
+	<Item>CU_VEH_BUFFALO4</Item>
+	<Item>CU_VEH_COMET7</Item>
+	<Item>CU_VEH_CHAMPION</Item>
+	<Item>CU_VEH_CINQUEMILA</Item>
+	<Item>CU_VEH_DEITY</Item>
+	<Item>CU_VEH_GRANGER2</Item>	
+	<Item>CU_VEH_IGNUS</Item>
+	<Item>CU_VEH_IWAGEN</Item>		
+	<Item>CU_VEH_JUBILEE</Item>	
+	<Item>CU_VEH_MULE5</Item>	
+	<Item>CU_VEH_PATRIOT3</Item>
+	<Item>CU_VEH_REEVER</Item>
+	<Item>CU_VEH_SHINOBI</Item>
+	<Item>CU_VEH_YOUGA4</Item>
+	<Item>CU_VEH_ZENO</Item>
+	<Item>CU_WEP_EMPLAUNCHER</Item>
+	<Item>CU_WEP_HEAVYRIFLE</Item>
+	<Item>CU_WEP_FERTILIZERCAN</Item>
+	<Item>CU_WEP_STUNGUN_MP</Item>
+	<Item>CU_FIXER_CLOTHES</Item>
+	<Item>CU_FIXER_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_SMUG_CLOTHES</Item>
+	<Item>CU_VEH_ALPHAZ1</Item>
+	<Item>CU_VEH_BOMBUSHKA</Item>
+	<Item>CU_VEH_CYCLONE</Item>
+	<Item>CU_VEH_HAVOK</Item>
+	<Item>CU_VEH_HOWARD</Item>
+	<Item>CU_VEH_HUNTER</Item>
+	<Item>CU_VEH_MICROLIGHT</Item>
+	<Item>CU_VEH_MOGUL</Item>
+	<Item>CU_VEH_MOLOTOK</Item>
+	<Item>CU_VEH_NOKOTA</Item>
+	<Item>CU_VEH_PYRO</Item>
+	<Item>CU_VEH_RAPIDGT3</Item>
+	<Item>CU_VEH_RETINUE</Item>
+	<Item>CU_VEH_ROGUE</Item>
+	<Item>CU_VEH_SEABREEZE</Item>
+	<Item>CU_VEH_STARLING</Item>	
+	<Item>CU_VEH_TULA</Item>
+	<Item>CU_VEH_VIGILANTE</Item>
+	<Item>CU_VEH_VISIONE</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_GP1</Item>
+	<Item>CU_VEH_INFERNUS2</Item>
+	<Item>CU_VEH_RUSTON</Item>
+	<Item>CU_VEH_TURISMO2</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+ 	<Item>CU_VEH_BF400</Item>
+ 	<Item>CU_VEH_BRIOSO</Item>
+ 	<Item>CU_VEH_CLIFFHANGER</Item>
+ 	<Item>CU_VEH_CONTENDER</Item>
+ 	<Item>CU_VEH_GARGOYLE</Item>
+ 	<Item>CU_VEH_LE7B</Item>
+ 	<Item>CU_VEH_LYNX</Item>
+ 	<Item>CU_VEH_OMNIS</Item>
+ 	<Item>CU_VEH_RALLYTRUCK</Item>
+ 	<Item>CU_VEH_SHEAVA</Item>
+ 	<Item>CU_VEH_TAMPA2</Item>
+ 	<Item>CU_VEH_TROPHY</Item>
+ 	<Item>CU_VEH_TROPHY2</Item>
+ 	<Item>CU_VEH_TROPOS</Item>
+ 	<Item>CU_VEH_TYRUS</Item>
+	<Item>CU_STUNT_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_CLUB</Item>
+	<Item>CU_VEH_COQUETTE4</Item>
+	<Item>CU_VEH_DUKES3</Item>
+	<Item>CU_VEH_GAUNTLET5</Item>
+	<Item>CU_VEH_GLENDALE2</Item>
+	<Item>CU_VEH_LANDSTALKER2</Item>
+	<Item>CU_VEH_MANANA2</Item>
+	<Item>CU_VEH_OPENWHEEL1</Item>
+	<Item>CU_VEH_OPENWHEEL2</Item>
+	<Item>CU_VEH_PENUMBRA2</Item>
+	<Item>CU_VEH_PEYOTE3</Item>
+	<Item>CU_VEH_SEMINOLE2</Item>
+	<Item>CU_VEH_TIGON</Item>
+	<Item>CU_VEH_YOSEMITE3</Item>
+	<Item>CU_VEH_YOUGA3</Item>
+	<Item>CU_SUM_CLOTHES</Item>
+	<Item>CU_SUM_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+  	<Item>CU_VEH_CALICO</Item>
+    <Item>CU_VEH_COMET6</Item>
+    <Item>CU_VEH_CYPHER</Item>
+    <Item>CU_VEH_DOMINATOR7</Item>
+	<Item>CU_VEH_DOMINATOR8</Item>
+	<Item>CU_VEH_EUROS</Item>
+	<Item>CU_VEH_FUTO2</Item>
+	<Item>CU_VEH_GROWLER</Item>
+    <Item>CU_VEH_JESTER4</Item>
+	<Item>CU_VEH_PREVION</Item>
+    <Item>CU_VEH_REMUS</Item>
+	<Item>CU_VEH_RT3000</Item>
+	<Item>CU_VEH_SULTAN3</Item>
+	<Item>CU_VEH_TAILGATER2</Item>
+    <Item>CU_VEH_VECTRE</Item>
+	<Item>CU_VEH_WARRENER2</Item>
+    <Item>CU_VEH_ZR350</Item>
+	<Item>CU_TUNER_CLOTHES</Item>
+	<Item>CU_TUNER_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+ 	<Item>CU_VEH_ROOSEVELT2</Item>
+	<Item>CU_VAL2_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_VEH_CARACARA2</Item>
+    <Item>CU_VEH_DRAFTER</Item>
+    <Item>CU_VEH_DYNASTY</Item>
+    <Item>CU_VEH_EMERUS</Item>
+    <Item>CU_VEH_GAUNTLET3</Item>
+    <Item>CU_VEH_GAUNTLET4</Item>
+    <Item>CU_VEH_HELLION</Item>
+    <Item>CU_VEH_ISSI7</Item>
+    <Item>CU_VEH_JUGULAR</Item>
+    <Item>CU_VEH_KRIEGER</Item>
+    <Item>CU_VEH_LOCUST</Item>
+    <Item>CU_VEH_NEBULA</Item>
+    <Item>CU_VEH_NEO</Item>
+    <Item>CU_VEH_NOVAK</Item>
+    <Item>CU_VEH_PARAGON</Item>
+    <Item>CU_VEH_PARAGON2</Item>
+    <Item>CU_VEH_PEYOTE2</Item>
+    <Item>CU_VEH_RROCKET</Item>
+    <Item>CU_VEH_S80</Item>
+    <Item>CU_VEH_THRAX</Item>
+    <Item>CU_VEH_ZION3</Item>
+    <Item>CU_VEH_ZORRUSSO</Item>
+	<Item>CU_VINEWOOD_CLOTHES</Item>
+	<Item>CU_VINEWOOD_MASKS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_VEH_TAMPA</Item>
+	<Item>CU_XMAS3_MASKS</Item>
+	<Item>CU_XMAS3_CLOTHES</Item>
+	<Item>CU_BEAST_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_BOTTLE</Item>
+    <Item>CU_WEP_SNSPISTOL</Item>
+	<Item>CU_BEACH_TATTOOS</Item>
+	<Item>CU_BIFTA_VEH</Item>
+	<Item>CU_KALAHARI_VEH</Item>
+	<Item>CU_PARADISE_VEH</Item>
+	<Item>CU_SPEEDER_VEH</Item>		
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_HEAVYPISTOL</Item>
+    <Item>CU_WEP_SPECIALCARBINE</Item>
+	<Item>CU_ALPHA_VEH</Item>
+	<Item>CU_JESTER_VEH</Item>
+	<Item>CU_TURISMOR_VEH</Item>
+	<Item>CU_VESTRA_VEH</Item>	
+	<Item>CU_BUSINESS_TATTOOS</Item>
+	<Item>CU_BUSINESS_HORNS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_BULLPUPRIFLE</Item>
+	<Item>CU_HUNTLEY_VEH</Item>
+	<Item>CU_MASSACRO_VEH</Item>
+	<Item>CU_THRUST_VEH</Item>
+	<Item>CU_ZENTORNO_VEH</Item>
+	<Item>CU_BUSINESS2_HORNS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_XMAS_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_DAGGER</Item>
+    <Item>CU_WEP_VINTAGEPISTOL</Item>
+	<Item>CU_BLADE_VEH</Item>
+	<Item>CU_DUBSTA3_VEH</Item>
+	<Item>CU_GLENDALE_VEH</Item>
+	<Item>CU_PANTO_VEH</Item>
+	<Item>CU_PIGALLE_VEH</Item>
+	<Item>CU_RHAPSODY_VEH</Item>
+	<Item>CU_WARRENER_VEH</Item>
+	<Item>CU_HIPSTER_TATTOOS</Item>
+	<Item>CU_HIPSTER_HORNS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_MONSTER_VEH</Item>
+    <Item>CU_SOVEREIGN_VEH</Item>
+    <Item>CU_WEP_FIREWORK</Item>
+    <Item>CU_WEP_MUSKET</Item>
+	<Item>CU_INDI_TATTOOS</Item>
+	<Item>CU_INDI_CLOTHES</Item>
+	<Item>CU_INDEPENDANCE_HORNS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_VEH_FUROREGT</Item>  
+	<Item>CU_VEH_HAKUCHOU</Item>  
+	<Item>CU_VEH_INNOVATION</Item>  
+	<Item>CU_WEP_HEAVYSHOTGUN</Item>
+	<Item>CU_WEP_MARKSMANRIFLE</Item>
+	<Item>CU_LTS_CLOTHES</Item>
+	<Item>CU_LTS_TATTOOS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+	<Item>CU_BESRA_VEH</Item>
+	<Item>CU_COQUETTE2_VEH</Item>
+	<Item>CU_MILJET_VEH</Item>
+	<Item>CU_SWIFT_VEH</Item>
+	<Item>CU_PILOT_CLOTHES</Item>
+	<Item>CU_PILOT_TATTOOS</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_GUSENBERG</Item>
+	<Item>CU_VALENTINE_TATTOOS</Item>
+    <Item>CU_ROOSEVELT_VEH</Item>
+	<Item>CU_VAL_CLOTHES</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SContentUnlocks>
+  <listOfUnlocks>
+    <Item>CU_WEP_HATCHET</Item>
+	<Item>CU_WEP_RAILGUN</Item>
+  </listOfUnlocks>
+</SContentUnlocks>
